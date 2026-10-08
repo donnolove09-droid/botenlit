@@ -1,0 +1,7 @@
+flask>=3.0
+requests>=2.31
+aiohttp>=3.9
+protobuf>=6.30.0
+protobuf-decoder
+pycryptodome>=3.19
+urllib3>=2.0

@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: nexio-ff-group-bot
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /healthz
+    autoDeploy: true
+    envVars:
+      - key: TELEGRAM_BOT_TOKEN
+        sync: false
+      - key: ADMIN_IDS
+        sync: false
+      - key: ACCOUNTS
+        sync: false
+      - key: API_KEY
+        sync: false
