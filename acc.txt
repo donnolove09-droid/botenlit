@@ -1,9 +1,7 @@
-# NEXIO FF GROUP BOT · Accounts
+# # NEXIO FF GROUP BOT · Accounts
 # Format: id=|uid=|password=|region=
-# Example:
-# 1=|4369584436|LABIB_AIRDROPS_WET87|BD
-# 2=|7975197636|353FB55EABCDEF123456|VN
-#
+1=|7906244923|TELE@WJXAZ_STAR_wpkKiwvUC|VN
+4=|8011488080|3F89EA205A935928012999DB585A149CE62ABB48551A9EE9EF4842D10A222F29|BD
 # First valid line is primary (used by engine unless /use <id>)
 #
 # Removed: id=2 (6601610531) and id=3 (6649401091) — both rejected by
